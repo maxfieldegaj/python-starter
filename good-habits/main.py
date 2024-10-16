@@ -1,15 +1,9 @@
-def upper_everything(elements: list[str]) -> list[str]:
-    return [element.upper() for element in elements]
+people: list[str] = ['James', 'Charlotte', 'Stephanie', 'Mario', 'Sandra']
 
+# long_names: list[str] = []
+# for person in people:
+#     if len(person) > 7:
+#         long_names.append(person)
 
-def main() -> None:
-    loud_list: list[str] = upper_everything(['Mario', 'james', 'Sara'])
-    # Getting mypy errors as desired!
-    loud_list2: list[str] = upper_everything([1, 2, 3])
-    for string in loud_list:
-        print(string)
-    for string in loud_list2:
-        print(string)
-
-if __file__ == "__main__":
-    main()
+long_names: list[str] = [p for p in people if len(p) > 7]
+print (f'Long names:', long_names)
