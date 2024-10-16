@@ -1,0 +1,580 @@
+{
+    "parcl_id": 5380879,
+    "property_type": "ALL_PROPERTIES",
+    "items": [
+        {
+            "date": "2024-09-01",
+            "price": {
+                "median": {
+                    "sales": 372500,
+                    "new_listings_for_sale": 595000,
+                    "new_rental_listings": 1705
+                },
+                "standard_deviation": {
+                    "sales": 105504,
+                    "new_listings_for_sale": 154920,
+                    "new_rental_listings": 300
+                },
+                "percentile_20th": {
+                    "sales": 277100,
+                    "new_listings_for_sale": 478996,
+                    "new_rental_listings": 1455
+                },
+                "percentile_80th": {
+                    "sales": 484000,
+                    "new_listings_for_sale": 765000,
+                    "new_rental_listings": 2022
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 218.49,
+                    "new_listings_for_sale": 347.9,
+                    "new_rental_listings": 2.15
+                },
+                "standard_deviation": {
+                    "sales": 147.32,
+                    "new_listings_for_sale": 155.85,
+                    "new_rental_listings": 0.64
+                },
+                "percentile_20th": {
+                    "sales": 143.54,
+                    "new_listings_for_sale": 249.52,
+                    "new_rental_listings": 1.64
+                },
+                "percentile_80th": {
+                    "sales": 338.36,
+                    "new_listings_for_sale": 498.28,
+                    "new_rental_listings": 2.66
+                }
+            }
+        },
+        {
+            "date": "2024-08-01",
+            "price": {
+                "median": {
+                    "sales": 433750,
+                    "new_listings_for_sale": 575000,
+                    "new_rental_listings": 1667
+                },
+                "standard_deviation": {
+                    "sales": 141863,
+                    "new_listings_for_sale": 147085,
+                    "new_rental_listings": 283
+                },
+                "percentile_20th": {
+                    "sales": 325000,
+                    "new_listings_for_sale": 465000,
+                    "new_rental_listings": 1445
+                },
+                "percentile_80th": {
+                    "sales": 613000,
+                    "new_listings_for_sale": 749000,
+                    "new_rental_listings": 1989
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 274.7,
+                    "new_listings_for_sale": 338.75,
+                    "new_rental_listings": 2.15
+                },
+                "standard_deviation": {
+                    "sales": 117.25,
+                    "new_listings_for_sale": 141.27,
+                    "new_rental_listings": 0.64
+                },
+                "percentile_20th": {
+                    "sales": 194.18,
+                    "new_listings_for_sale": 250.6,
+                    "new_rental_listings": 1.69
+                },
+                "percentile_80th": {
+                    "sales": 361.81,
+                    "new_listings_for_sale": 465.64,
+                    "new_rental_listings": 2.6
+                }
+            }
+        },
+        {
+            "date": "2024-07-01",
+            "price": {
+                "median": {
+                    "sales": 470104,
+                    "new_listings_for_sale": 549700,
+                    "new_rental_listings": 1730
+                },
+                "standard_deviation": {
+                    "sales": 115219,
+                    "new_listings_for_sale": 140321,
+                    "new_rental_listings": 313
+                },
+                "percentile_20th": {
+                    "sales": 361150,
+                    "new_listings_for_sale": 450000,
+                    "new_rental_listings": 1499
+                },
+                "percentile_80th": {
+                    "sales": 587900,
+                    "new_listings_for_sale": 703600,
+                    "new_rental_listings": 2100
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 275.92,
+                    "new_listings_for_sale": 325.59,
+                    "new_rental_listings": 2.07
+                },
+                "standard_deviation": {
+                    "sales": 123.81,
+                    "new_listings_for_sale": 144.0,
+                    "new_rental_listings": 0.67
+                },
+                "percentile_20th": {
+                    "sales": 194.05,
+                    "new_listings_for_sale": 245.21,
+                    "new_rental_listings": 1.62
+                },
+                "percentile_80th": {
+                    "sales": 375.31,
+                    "new_listings_for_sale": 462.01,
+                    "new_rental_listings": 2.6
+                }
+            }
+        },
+        {
+            "date": "2024-06-01",
+            "price": {
+                "median": {
+                    "sales": 465375,
+                    "new_listings_for_sale": 584000,
+                    "new_rental_listings": 1775
+                },
+                "standard_deviation": {
+                    "sales": 127457,
+                    "new_listings_for_sale": 150228,
+                    "new_rental_listings": 287
+                },
+                "percentile_20th": {
+                    "sales": 379875,
+                    "new_listings_for_sale": 460000,
+                    "new_rental_listings": 1550
+                },
+                "percentile_80th": {
+                    "sales": 617844,
+                    "new_listings_for_sale": 749900,
+                    "new_rental_listings": 2100
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 282.5,
+                    "new_listings_for_sale": 334.38,
+                    "new_rental_listings": 2.31
+                },
+                "standard_deviation": {
+                    "sales": 147.31,
+                    "new_listings_for_sale": 145.9,
+                    "new_rental_listings": 0.62
+                },
+                "percentile_20th": {
+                    "sales": 205.88,
+                    "new_listings_for_sale": 262.05,
+                    "new_rental_listings": 1.73
+                },
+                "percentile_80th": {
+                    "sales": 403.2,
+                    "new_listings_for_sale": 475.43,
+                    "new_rental_listings": 2.67
+                }
+            }
+        },
+        {
+            "date": "2024-05-01",
+            "price": {
+                "median": {
+                    "sales": 545000,
+                    "new_listings_for_sale": 610000,
+                    "new_rental_listings": 1737
+                },
+                "standard_deviation": {
+                    "sales": 148657,
+                    "new_listings_for_sale": 159145,
+                    "new_rental_listings": 311
+                },
+                "percentile_20th": {
+                    "sales": 420000,
+                    "new_listings_for_sale": 489994,
+                    "new_rental_listings": 1495
+                },
+                "percentile_80th": {
+                    "sales": 712500,
+                    "new_listings_for_sale": 785000,
+                    "new_rental_listings": 2100
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 309.41,
+                    "new_listings_for_sale": 348.79,
+                    "new_rental_listings": 2.11
+                },
+                "standard_deviation": {
+                    "sales": 148.15,
+                    "new_listings_for_sale": 148.82,
+                    "new_rental_listings": 0.59
+                },
+                "percentile_20th": {
+                    "sales": 232.43,
+                    "new_listings_for_sale": 264.05,
+                    "new_rental_listings": 1.69
+                },
+                "percentile_80th": {
+                    "sales": 422.79,
+                    "new_listings_for_sale": 493.86,
+                    "new_rental_listings": 2.56
+                }
+            }
+        },
+        {
+            "date": "2024-04-01",
+            "price": {
+                "median": {
+                    "sales": 529938,
+                    "new_listings_for_sale": 599900,
+                    "new_rental_listings": 1771
+                },
+                "standard_deviation": {
+                    "sales": 134796,
+                    "new_listings_for_sale": 161429,
+                    "new_rental_listings": 321
+                },
+                "percentile_20th": {
+                    "sales": 415000,
+                    "new_listings_for_sale": 492323,
+                    "new_rental_listings": 1500
+                },
+                "percentile_80th": {
+                    "sales": 666125,
+                    "new_listings_for_sale": 799000,
+                    "new_rental_listings": 2114
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 298.26,
+                    "new_listings_for_sale": 347.67,
+                    "new_rental_listings": 2.11
+                },
+                "standard_deviation": {
+                    "sales": 132.31,
+                    "new_listings_for_sale": 147.56,
+                    "new_rental_listings": 0.58
+                },
+                "percentile_20th": {
+                    "sales": 225.71,
+                    "new_listings_for_sale": 262.6,
+                    "new_rental_listings": 1.68
+                },
+                "percentile_80th": {
+                    "sales": 422.71,
+                    "new_listings_for_sale": 493.5,
+                    "new_rental_listings": 2.6
+                }
+            }
+        },
+        {
+            "date": "2024-03-01",
+            "price": {
+                "median": {
+                    "sales": 533984,
+                    "new_listings_for_sale": 619950,
+                    "new_rental_listings": 1750
+                },
+                "standard_deviation": {
+                    "sales": 130042,
+                    "new_listings_for_sale": 180746,
+                    "new_rental_listings": 295
+                },
+                "percentile_20th": {
+                    "sales": 428500,
+                    "new_listings_for_sale": 490000,
+                    "new_rental_listings": 1499
+                },
+                "percentile_80th": {
+                    "sales": 666500,
+                    "new_listings_for_sale": 825000,
+                    "new_rental_listings": 2062
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 307.63,
+                    "new_listings_for_sale": 360.52,
+                    "new_rental_listings": 2.16
+                },
+                "standard_deviation": {
+                    "sales": 139.61,
+                    "new_listings_for_sale": 161.8,
+                    "new_rental_listings": 0.59
+                },
+                "percentile_20th": {
+                    "sales": 230.75,
+                    "new_listings_for_sale": 266.89,
+                    "new_rental_listings": 1.71
+                },
+                "percentile_80th": {
+                    "sales": 424.96,
+                    "new_listings_for_sale": 519.66,
+                    "new_rental_listings": 2.63
+                }
+            }
+        },
+        {
+            "date": "2024-02-01",
+            "price": {
+                "median": {
+                    "sales": 484989,
+                    "new_listings_for_sale": 575000,
+                    "new_rental_listings": 1705
+                },
+                "standard_deviation": {
+                    "sales": 111303,
+                    "new_listings_for_sale": 155813,
+                    "new_rental_listings": 300
+                },
+                "percentile_20th": {
+                    "sales": 399980,
+                    "new_listings_for_sale": 465000,
+                    "new_rental_listings": 1469
+                },
+                "percentile_80th": {
+                    "sales": 606500,
+                    "new_listings_for_sale": 750000,
+                    "new_rental_listings": 2057
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 299.96,
+                    "new_listings_for_sale": 346.1,
+                    "new_rental_listings": 2.11
+                },
+                "standard_deviation": {
+                    "sales": 128.8,
+                    "new_listings_for_sale": 150.16,
+                    "new_rental_listings": 1.59
+                },
+                "percentile_20th": {
+                    "sales": 227.94,
+                    "new_listings_for_sale": 251.21,
+                    "new_rental_listings": 1.72
+                },
+                "percentile_80th": {
+                    "sales": 407.23,
+                    "new_listings_for_sale": 487.01,
+                    "new_rental_listings": 2.68
+                }
+            }
+        },
+        {
+            "date": "2024-01-01",
+            "price": {
+                "median": {
+                    "sales": 509438,
+                    "new_listings_for_sale": 545000,
+                    "new_rental_listings": 1748
+                },
+                "standard_deviation": {
+                    "sales": 136231,
+                    "new_listings_for_sale": 159480,
+                    "new_rental_listings": 306
+                },
+                "percentile_20th": {
+                    "sales": 379688,
+                    "new_listings_for_sale": 459000,
+                    "new_rental_listings": 1525
+                },
+                "percentile_80th": {
+                    "sales": 648688,
+                    "new_listings_for_sale": 720000,
+                    "new_rental_listings": 2136
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 293.11,
+                    "new_listings_for_sale": 338.84,
+                    "new_rental_listings": 2.18
+                },
+                "standard_deviation": {
+                    "sales": 135.4,
+                    "new_listings_for_sale": 152.53,
+                    "new_rental_listings": 0.65
+                },
+                "percentile_20th": {
+                    "sales": 214.17,
+                    "new_listings_for_sale": 246.14,
+                    "new_rental_listings": 1.73
+                },
+                "percentile_80th": {
+                    "sales": 397.55,
+                    "new_listings_for_sale": 485.92,
+                    "new_rental_listings": 2.7
+                }
+            }
+        },
+        {
+            "date": "2023-12-01",
+            "price": {
+                "median": {
+                    "sales": 495157,
+                    "new_listings_for_sale": 570000,
+                    "new_rental_listings": 1749
+                },
+                "standard_deviation": {
+                    "sales": 130632,
+                    "new_listings_for_sale": 150087,
+                    "new_rental_listings": 305
+                },
+                "percentile_20th": {
+                    "sales": 375000,
+                    "new_listings_for_sale": 470000,
+                    "new_rental_listings": 1500
+                },
+                "percentile_80th": {
+                    "sales": 636200,
+                    "new_listings_for_sale": 749500,
+                    "new_rental_listings": 2099
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 292.88,
+                    "new_listings_for_sale": 329.21,
+                    "new_rental_listings": 2.19
+                },
+                "standard_deviation": {
+                    "sales": 131.68,
+                    "new_listings_for_sale": 156.72,
+                    "new_rental_listings": 0.65
+                },
+                "percentile_20th": {
+                    "sales": 207.13,
+                    "new_listings_for_sale": 244.06,
+                    "new_rental_listings": 1.74
+                },
+                "percentile_80th": {
+                    "sales": 398.86,
+                    "new_listings_for_sale": 488.74,
+                    "new_rental_listings": 2.66
+                }
+            }
+        },
+        {
+            "date": "2023-11-01",
+            "price": {
+                "median": {
+                    "sales": 478457,
+                    "new_listings_for_sale": 577000,
+                    "new_rental_listings": 1757
+                },
+                "standard_deviation": {
+                    "sales": 134728,
+                    "new_listings_for_sale": 157822,
+                    "new_rental_listings": 322
+                },
+                "percentile_20th": {
+                    "sales": 367868,
+                    "new_listings_for_sale": 474997,
+                    "new_rental_listings": 1524
+                },
+                "percentile_80th": {
+                    "sales": 610580,
+                    "new_listings_for_sale": 775000,
+                    "new_rental_listings": 2160
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 277.5,
+                    "new_listings_for_sale": 327.72,
+                    "new_rental_listings": 2.11
+                },
+                "standard_deviation": {
+                    "sales": 132.41,
+                    "new_listings_for_sale": 162.35,
+                    "new_rental_listings": 0.65
+                },
+                "percentile_20th": {
+                    "sales": 215.98,
+                    "new_listings_for_sale": 250.9,
+                    "new_rental_listings": 1.67
+                },
+                "percentile_80th": {
+                    "sales": 387.01,
+                    "new_listings_for_sale": 493.6,
+                    "new_rental_listings": 2.67
+                }
+            }
+        },
+        {
+            "date": "2023-10-01",
+            "price": {
+                "median": {
+                    "sales": 516965,
+                    "new_listings_for_sale": 599000,
+                    "new_rental_listings": 1815
+                },
+                "standard_deviation": {
+                    "sales": 122855,
+                    "new_listings_for_sale": 173145,
+                    "new_rental_listings": 343
+                },
+                "percentile_20th": {
+                    "sales": 401875,
+                    "new_listings_for_sale": 479660,
+                    "new_rental_listings": 1575
+                },
+                "percentile_80th": {
+                    "sales": 640000,
+                    "new_listings_for_sale": 799000,
+                    "new_rental_listings": 2250
+                }
+            },
+            "price_per_square_foot": {
+                "median": {
+                    "sales": 292.72,
+                    "new_listings_for_sale": 361.84,
+                    "new_rental_listings": 2.17
+                },
+                "standard_deviation": {
+                    "sales": 133.47,
+                    "new_listings_for_sale": 161.0,
+                    "new_rental_listings": 0.66
+                },
+                "percentile_20th": {
+                    "sales": 215.91,
+                    "new_listings_for_sale": 258.62,
+                    "new_rental_listings": 1.69
+                },
+                "percentile_80th": {
+                    "sales": 412.39,
+                    "new_listings_for_sale": 521.76,
+                    "new_rental_listings": 2.61
+                }
+            }
+        }
+    ],
+    "total": 69,
+    "limit": 12,
+    "offset": 0,
+    "links": {
+        "first": "https://api.parcllabs.com/v1/market_metrics/5380879/housing_event_prices?offset=0",
+        "last": "https://api.parcllabs.com/v1/market_metrics/5380879/housing_event_prices?offset=60",
+        "self": "https://api.parcllabs.com/v1/market_metrics/5380879/housing_event_prices",
+        "next": "https://api.parcllabs.com/v1/market_metrics/5380879/housing_event_prices?offset=12",
+        "prev": null
+    }
+}
