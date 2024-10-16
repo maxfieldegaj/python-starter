@@ -1,24 +1,15 @@
-def is_an_adult(age: int, has_id: bool) -> bool:
-    return age >= 21 and has_id
+def upper_everything(elements: list[str]) -> list[str]:
+    return [element.upper() for element in elements]
 
-def is_bob(name: str) -> bool:
-    return name.lower() == 'bob'
-
-def enter_club(name: str, age: int, has_id: bool) -> None:
-    if is_bob(name):
-        print('Get out of here Bob, we don\'t want no trouble.')
-        return
-
-    if is_an_adult(age, has_id):
-        print('You may enter club')
-    else:
-        print('You may not enter the clurrb')
 
 def main() -> None:
-    enter_club('Bob', 29, has_id=True)
-    enter_club('James', 29, has_id=True)
-    enter_club('Sandra', 29, has_id=False)
-    enter_club('Mario', 20, has_id=True)
+    loud_list: list[str] = upper_everything(['Mario', 'james', 'Sara'])
+    # Getting mypy errors as desired!
+    loud_list2: list[str] = upper_everything([1, 2, 3])
+    for string in loud_list:
+        print(string)
+    for string in loud_list2:
+        print(string)
 
-if __name__ == "__main__":
+if __file__ == "__main__":
     main()
